@@ -1,0 +1,64 @@
+body {
+    min-height: 75rem;
+    font-family: 'Montserrat', sans-serif;
+  }
+.margin-24 {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 48px!important ;
+    box-shadow: rgba(0,0,0,0.15) 0px 6px 15px;
+    background-color: #fff2d9;
+    border-radius: 15px;
+    border: 4px solid rgba(255, 201, 96, 0.65);
+}
+.bumped-down{
+    margin-top: 25px;
+}
+.navbar.mb-4{
+  margin-bottom: 0px !important;
+}
+.navbar-toggler-icon{
+  color: rgba(0,0,0,0.65) !important;
+}
+.my-5{
+  margin-top: .5rem !important;
+}
+.navbar-brand{
+    margin-left: 8px;
+}
+
+.bg-dark{
+  background: transparent !important;
+}
+.nav-link{
+  color: rgba(0,0,0,0.65) !important ;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+.spacing.large{
+    height: 48px;
+  }
+.home-h2-spacing{
+    margin-top: 72px;
+    margin-bottom: 32px;
+  }
+.home-h1-spacing{
+    margin-bottom: 32px;
+}
+.nav-link{
+  padding-left: 2rem !important;
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
